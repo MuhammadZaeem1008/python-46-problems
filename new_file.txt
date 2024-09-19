@@ -1,0 +1,4 @@
+1 My name is zaeem 
+2 this is a file for problem 37
+3 and in this problem i will generate a new file
+4 after that, i will store the number according to the number of lines

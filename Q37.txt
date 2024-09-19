@@ -1,0 +1,4 @@
+My name is zaeem 
+this is a file for problem 37
+and in this problem i will generate a new file
+after that, i will store the number according to the number of lines
